@@ -60,15 +60,15 @@ assets/
 
 ### Home Page
 
-Add your Home Page screenshot here.
+Home Page screenshot here.
 
 ### Category Page
 
-Add your Category Page screenshot here.
+Category Page screenshot here.
 
 ### Product Details Page
 
-Add your Product Details screenshot here.
+Product Details screenshot here.
 
 ## How to Run
 
